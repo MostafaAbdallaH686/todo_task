@@ -1,0 +1,2 @@
+D:/bloc_ed/Nti_project/To-Do-App/android/app/.cxx/Debug/1i1z513l/x86_64/CMakeFiles/edit_cache.dir
+D:/bloc_ed/Nti_project/To-Do-App/android/app/.cxx/Debug/1i1z513l/x86_64/CMakeFiles/rebuild_cache.dir

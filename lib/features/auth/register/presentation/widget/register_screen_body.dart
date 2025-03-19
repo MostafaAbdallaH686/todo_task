@@ -38,11 +38,11 @@ class RegisterScreenBody extends StatelessWidget {
                   return Container(
                     clipBehavior: Clip.antiAlias,
                     height:
-                        AppWidthHeight.persantageOfHeight((160 / 812) * 100),
+                        AppWidthHeight.persantageOfHeight((260 / 812) * 100),
                     width: AppWidthHeight.persantageOfWidth((261 / 375) * 100),
                     decoration: BoxDecoration(
-                      shape: BoxShape.circle,
-                    ),
+                        //  shape: BoxShape.circle,
+                        ),
                     child: RegisterCubit.get(context).image == null
                         ? Image.asset(
                             AppImage.authLogo,

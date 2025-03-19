@@ -5,8 +5,8 @@ import 'package:to_do_app/core/helper/helper.dart';
 import 'package:to_do_app/core/helper/shared_preferenece_key.dart';
 import 'package:to_do_app/core/dio/dio_exception.dart';
 import 'package:to_do_app/core/model/user_model.dart';
-import 'package:to_do_app/core/network/api_endpoint.dart';
-import 'package:to_do_app/core/network/api_helper.dart';
+import 'package:to_do_app/core/api/api_endpoint.dart';
+import 'package:to_do_app/core/api/api_helper.dart';
 import 'package:to_do_app/core/shared/user_service.dart';
 import 'package:to_do_app/features/auth/login/data/model/login_model.dart';
 

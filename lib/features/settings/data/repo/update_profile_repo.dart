@@ -6,9 +6,9 @@ import 'package:dio/dio.dart';
 import 'package:to_do_app/core/helper/helper.dart';
 import 'package:to_do_app/core/helper/shared_preferenece_key.dart';
 import 'package:to_do_app/core/dio/dio_exception.dart';
-import 'package:to_do_app/core/network/api_endpoint.dart';
-import 'package:to_do_app/core/network/api_helper.dart';
-import 'package:to_do_app/core/network/api_keypoint.dart';
+import 'package:to_do_app/core/api/api_endpoint.dart';
+import 'package:to_do_app/core/api/api_helper.dart';
+import 'package:to_do_app/core/api/api_keypoint.dart';
 import 'package:to_do_app/features/auth/login/data/model/user_model.dart';
 
 class UpdateProfileRepo {

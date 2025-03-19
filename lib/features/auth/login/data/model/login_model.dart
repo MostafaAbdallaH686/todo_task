@@ -1,4 +1,4 @@
-import 'package:to_do_app/core/network/api_keypoint.dart';
+import 'package:to_do_app/core/api/api_keypoint.dart';
 import 'package:to_do_app/features/auth/login/data/model/user_model.dart';
 
 class LoginModel {

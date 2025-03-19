@@ -40,11 +40,11 @@ class UpdateProfileBody extends StatelessWidget {
                   return Container(
                     clipBehavior: Clip.antiAlias,
                     height:
-                        AppWidthHeight.persantageOfHeight((160 / 812) * 100),
-                    width: AppWidthHeight.persantageOfWidth((261 / 375) * 100),
+                        AppWidthHeight.persantageOfHeight((260 / 812) * 100),
+                    width: AppWidthHeight.persantageOfWidth((500 / 375) * 100),
                     decoration: BoxDecoration(
-                      shape: BoxShape.circle,
-                    ),
+                        //   shape: BoxShape.circle,
+                        ),
                     child: UpdateProfileCubit.get(context).image == null
                         ? getImage()
                         : Image.file(

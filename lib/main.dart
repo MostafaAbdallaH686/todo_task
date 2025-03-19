@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
 import 'package:to_do_app/core/helper/helper.dart';
 import 'package:to_do_app/core/theme/app_theme_data.dart';
-import 'package:to_do_app/features/on_baording/start_screen/presentation/splash_screen.dart';
 import 'package:to_do_app/features/on_baording/start_screen/presentation/start_screen.dart';
 
 void main() async {

@@ -1,8 +1,8 @@
 import 'package:dartz/dartz.dart';
 import 'package:to_do_app/core/dio/dio_exception.dart';
-import 'package:to_do_app/core/network/api_endpoint.dart';
-import 'package:to_do_app/core/network/api_helper.dart';
-import 'package:to_do_app/core/network/api_keypoint.dart';
+import 'package:to_do_app/core/api/api_endpoint.dart';
+import 'package:to_do_app/core/api/api_helper.dart';
+import 'package:to_do_app/core/api/api_keypoint.dart';
 
 class ChangePasswordRepo {
   ApiHelper apiHelper = ApiHelper();

@@ -28,8 +28,8 @@ class AddTaskScreenBody extends StatelessWidget {
             height: AppHeight.h31,
           ),
           Container(
-            width: AppWidthHeight.persantageOfWidth((261 / 375) * 100),
-            height: AppWidthHeight.persantageOfHeight((207 / 812) * 100),
+            width: AppWidthHeight.persantageOfWidth((500 / 375) * 100),
+            height: AppWidthHeight.persantageOfHeight((260 / 812) * 100),
             decoration: BoxDecoration(
               borderRadius: AppRadius.buttonRaduis,
               image: DecorationImage(
