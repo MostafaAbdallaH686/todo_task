@@ -1,16 +1,35 @@
 # to_do_app
 
-A new Flutter project.
+🚀 *A simple and efficient task management app built with Flutter.*  
 
-## Getting Started
+## 📌 Features  
+- 📝 Add, edit, and delete tasks  
+- 📆 Set due dates and reminders   
+- 🔄 Sync tasks across devices (Future update)
+  
+## 📸 Preview  
+### 🖼 Screenshots  
+![Splash Screen](assets/screenshots/Screenshot_1742184537.png)  
 
-This project is a starting point for a Flutter application.
+![Start Screen](assets/screenshots/Screenshot_1742184539.png)  
 
-A few resources to get you started if this is your first Flutter project:
+![Register Screen](assets/screenshots/Screenshot_20250318-101522.png)  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Login Screen](assets/screenshots/Screenshot_20250318-101332.png) 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Home1 Screen](assets/screenshots/Screenshot_1742184599.png)
+
+![AddTask Screen](assets/screenshots/Screenshot_20250318-101454.png)
+
+![Profile Screen](assets/screenshots/Screenshot_1742184616.png)
+
+![Home2 Screen](assets/screenshots/Screenshot_20250318-101357.png)
+
+![UpdateProfile Screen](assets/screenshots/Screenshot_20250318-101418.png)
+
+![Settings Screen](assets/screenshots/Screenshot_20250318-101435.png)
+
+![Changepassword Screen](assets/screenshots/Screenshot_20250318-101429.png)
+
+### 📽 Demo Video  
+[![Watch video ]](https://drive.google.com/drive/folders/1okM6KNvGFgRJY3mF9ypc6UBIIBqE9jPf)
